@@ -39,7 +39,7 @@ My goal is to write clean code, understand fundamentals deeply, and contribute t
 ### Address Book
 - **What it is:** Address management system 
 - **Tech:** C  
-- **Code:** https://github.com/Bharath97-flow/PROJECT-PORTFOLIO/tree/main/Stegnography
+- **Code:** https://github.com/Bharath97-flow/PROJECT-PORTFOLIO/tree/main/AddressBook
 - **Notes:** Executed without the assist of library functions by creating and calling function mimicing them 
 
 ---
